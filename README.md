@@ -4,16 +4,6 @@ Modern single-page expense tracker web app with login, animated background, inte
 
 **No backend, no build step** — just open `index.html` in the browser.
 
-## Screenshots
-
-### 1. Login Screen
-"C:\Users\Luv\Pictures\Screenshots\Screenshot 2026-02-08 184405.png"  
-
-### 2. Dashboard with Chart & Transactions
-"C:\Users\Luv\Pictures\Screenshots\Screenshot 2026-02-08 184521.png"
-
-### 3. Adding a Transaction
-"C:\Users\Luv\Pictures\Screenshots\Screenshot 2026-02-08 185050.png"
 ## Features
 
 - Secure browser-based login (password stored in localStorage)
@@ -57,3 +47,4 @@ Last major update: February 2026
 Feel free to fork, modify or use as inspiration.
 
 Made with ❤️ in Delhi
+
